@@ -8,6 +8,7 @@ import {
   FaCheckCircle,
   FaArrowRight
 } from 'react-icons/fa';
+import { motion } from 'framer-motion';
 
 export default function About({ mode }) {
   const textColor =
