@@ -1,12 +1,10 @@
 import React from 'react';
-import { motion } from 'framer-motion';
 import {
   FaRocket,
   FaBolt,
   FaBrain,
   FaChartLine,
   FaCode,
-  FaUsers,
   FaCheckCircle,
   FaArrowRight
 } from 'react-icons/fa';
